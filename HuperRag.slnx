@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="01_OllamaSharp/01_OllamaSharp.csproj" />
+  <Project Path="02_microsoft_ai_extensions/02_microsoft_ai_extensions.csproj" />
+  <Project Path="03_SemanticKernel/03_SemanticKernel.csproj" />
+  <Project Path="04_Embeddings/04_Embeddings.csproj" />
+  <Project Path="05_PgVector/05_PgVector.csproj" />
+</Solution>
